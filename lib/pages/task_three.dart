@@ -13,7 +13,7 @@ class _TaskThreeState extends State<TaskThree> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text("TaskThree"),
+        title: Text("Task Three"),
         centerTitle: true,
       ),
       body: Container(
